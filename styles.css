@@ -1,1 +1,61 @@
 /* your code here */
+.logo_name {
+	font-size: 30px;
+}
+
+.top {
+	display: flex;
+	width: 100%;
+}
+
+.media-icons {
+	width: 100%;
+	display: flex;
+	justify-content: right;
+}
+
+.link-boxes {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 1rem;
+}
+
+ul {
+	list-style: none;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+	color: white;
+	border-radius: 50%;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+}
+
+.fa-instagram {
+    background: #125688;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+}
+
+.fa-youtube {
+    background: #bb0000;
+}
+
+.bottom-details {
+	display: flex;
+	justify-content: space-between;
+}
